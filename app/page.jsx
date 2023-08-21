@@ -7,12 +7,11 @@ export default function Home() {
         Discover & Share <br className="max-md:hidden" />
         <span className="orange_gradient text-center">AI-Powered Prompts</span>
       </h1>
-      <p />
-      <desc className="text-center">
+      <p className=" desc text-center">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis ab
         nam unde magni similique illum officia deserunt expedita, quos quibusdam
         necessitatibus quae nihil placeat vel et? Impedit obcaecati sed culpa.
-      </desc>
+      </p>
       <Feed />
     </section>
   );
