@@ -8,9 +8,8 @@ export default function Home() {
         <span className="orange_gradient text-center">AI-Powered Prompts</span>
       </h1>
       <p className=" desc text-center">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis ab
-        nam unde magni similique illum officia deserunt expedita, quos quibusdam
-        necessitatibus quae nihil placeat vel et? Impedit obcaecati sed culpa.
+        Promptopia is an open-source AI prompting tool for modern world to
+        discover, create and share creative prompts
       </p>
       <Feed />
     </section>
